@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore the config.json file
+src/config.json
