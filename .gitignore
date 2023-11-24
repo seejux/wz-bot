@@ -1,4 +1,7 @@
 # .gitignore
 
-# Ignore the config.json file
+# Ignore config.json within the src folder
 src/config.json
+
+# Ignore node_modules folder
+node_modules/
